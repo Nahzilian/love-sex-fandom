@@ -8,6 +8,7 @@
     <title>Love, Sex and Fandom</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link href="./stylesheets/index.css" rel="stylesheet">
 </head>
 
@@ -27,42 +28,73 @@
         </div>
         <div class="space"></div>
         <div class="row">
-            <div class="col-sm-12 col-md-4">
-                <a href="index.html" class="article-link">
-                <div class="card-wrapper">
-                    
-                    <div class="custom-card">
-                        <div class="custom-card-front">
-                            <img src="/assets/placeholder.jpeg" width="100%" alt="something">
-                            <h5>Comfort of Cliches</h5>
-                        </div>
-                        <div class="custom-card-back">
-                            <div>
-                                <p>Through cliches are tried and true, these readers can't seem to get enough out of
-                                    them.
-                                    Here's why:</p>
-                                <h6>Words by Nisat Chowdury</h6>
-                                <h6>Visuals by Laila Amer</h6>
+            
+            <div class="col-sm-12 col-md-6 col-lg-4">
+                <a href="article.html" class="article-link">
+                    <div class="card-wrapper">
+                        <div class="custom-card">
+                            <div class="custom-card-front">
+                                <img src="/assets/placeholder.jpeg" width="100%" alt="something">
+                                <h5>Comfort of Cliches</h5>
+                            </div>
+                            <div class="custom-card-back">
+                                <div>
+                                    <p>Through cliches are tried and true, these readers can't seem to get enough out of
+                                        them.
+                                        Here's why:</p>
+                                    <h6>Words by Nisat Chowdury</h6>
+                                    <h6>Visuals by Laila Amer</h6>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
                 </a>
             </div>
 
         </div>
-
-
     </section>
 
-    <section>
-        Music player
+    <div class="space"></div>
+
+    <section class="container">
+        <div class="music-section">
+            <div class="row">
+                <div class="col">
+                    <div class="audio-buttons">
+                        <span class="media__button button__previous" onclick="previous_song()">
+                            <i class="bi bi-skip-backward-fill"></i>
+                        </span>
+                        <span class="media__button" id="button__play" onclick="play()">
+                            <i class="bi bi-caret-right-fill"></i>
+                        </span>
+                        <span class="media__button" id="button__pause" onclick="pause()">
+                            <i class="bi bi-pause-fill"></i>
+                        </span>
+                        <span class="media__button button__next" onclick="next_song()">
+                            <i class="bi bi-skip-forward-fill"></i>
+                        </span>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="song__info">
+                        <img class="cover__image" alt="cover image" src="./assets/blue.jpg">
+
+                        <div>
+                            <div class="song__name">Never Gonna Give you Up</div>
+                            <div class="artist__name">Rick Astley</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <div class="space"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
+
+    <script src="./script/index.js"></script>
 </body>
 
 </html>
