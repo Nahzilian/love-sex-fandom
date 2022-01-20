@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@600&family=Manrope&family=PT+Serif&family=Playfair+Display:wght@600&display=swap');
+
+body {
+    font-size: 17px;
+    padding: 0;
+    margin: 0;
+}
+
+.article-header {
+    text-align: center;
+}
+
+.article-header img {
+    padding: 15px;
+    border: 1px solid black;
+    margin: 20px 0;
+}
+
+.return-homepage, .a-headline, .a-dek, .a-byline{
+    color: #111D4A
+}
+
+.return-homepage {
+    font-size: 1.5rem;
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.a-headline {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.a-dek {
+    font-family: 'Manrope', sans-serif;
+}
+
+.a-byline {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: bold;
+}
+
+.content {
+    font-family: 'PT Serif', serif;
+}
+
+.content img {
+    border: solid 1px black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
