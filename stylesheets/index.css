@@ -116,7 +116,7 @@ html {
 .music-section {
     border: 1px solid #111D4A;
     border-radius: 10px;
-    height: 100px;
+    
     width: 100%;
 }
 
@@ -136,7 +136,9 @@ html {
 }
 
 .audio-buttons {
-    text-align: end;
+    display: grid;
+    grid-template-columns: 40px 40px 40px;
+    place-content: end;
 }
 
 .song__name {
@@ -146,6 +148,37 @@ html {
 #button__pause {
     display: none;
 }
+
+.col-sm-12, .col-md-6, .col-lg-4{
+    margin: 20px 0;
+}
+
+.disc-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 1px solid red;
+}
+
+.disc {
+    background-color: #111D4A;
+    /* width: 200px;
+    height: 200px; */
+    width: 100%;
+    height: auto;
+    display: grid;
+    place-items: center;
+    border-radius: 100%;
+    padding: 100px;
+}
+
+.inner-disc {
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    background-color: white;
+}
+
 
 @media only screen and (max-width: 1400px) {
     .custom-card {
@@ -163,16 +196,61 @@ html {
     .custom-card {
         height: 360px;
     }
+
+    .page-title h1 {
+        font-size: 5rem;
+    }
+
+    .page-title p {
+        font-size: 1.6rem;
+    }
+
+    .space {
+        height: 40px;
+    }
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 767px) {
     .custom-card {
         height: 540px;
     }
 }
 
-@media only screen and (max-width: 991px) {
-    .custom-card {
-        height: 540px;
+@media only screen and (max-width: 575px) {
+    .song__info {
+        grid-template-columns: 60px 150px;
+        place-content: center;
+    }
+
+    .audio-buttons {
+        place-content: center;
     }
 }
+
+
+@media only screen and (max-width: 545px) {
+    .custom-card {
+        min-height: 400px;
+        height: 60vh;
+    }
+
+    .page-title h1 {
+        font-size: 4rem;
+    }
+
+    .page-title p {
+        font-size: 1.4rem;
+    }
+
+    .music-section .row {
+        flex-wrap: wrap-reverse;
+    }
+}
+
+@media only screen and (max-height: 915px) and (max-width: 415px) and (min-height: 690px){
+    .custom-card {
+        min-height: 300px;
+        height: 45vh;
+    }
+}
+
