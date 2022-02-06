@@ -48,7 +48,7 @@ body {
 }
 
 .content img {
-    border: solid 1px black;
+    
     padding: 10px;
     margin: 10px;
 }
@@ -59,4 +59,11 @@ body {
 
 .float-right {
     float: right;
+}
+
+
+@media only screen and (max-width: 510px){
+    .float-left, .float-right {
+        float: unset;
+    }
 }

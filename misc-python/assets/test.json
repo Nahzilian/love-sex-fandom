@@ -1,0 +1,2171 @@
+{
+    "title": "5 POC romance books to add to your reading list",
+    "body": {
+        "content": [
+            {
+                "endIndex": 1,
+                "sectionBreak": {
+                    "sectionStyle": {
+                        "columnSeparatorStyle": "NONE",
+                        "contentDirection": "LEFT_TO_RIGHT",
+                        "sectionType": "CONTINUOUS"
+                    }
+                }
+            },
+            {
+                "startIndex": 1,
+                "endIndex": 51,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1,
+                            "endIndex": 2,
+                            "inlineObjectElement": {
+                                "inlineObjectId": "i.0",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 19,
+                                        "unit": "PT"
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Playfair Display",
+                                        "weight": 600
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2,
+                            "endIndex": 50,
+                            "textRun": {
+                                "content": "5 POC romance books to add to your reading list ",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 19,
+                                        "unit": "PT"
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Playfair Display",
+                                        "weight": 600
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 50,
+                            "endIndex": 51,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 16,
+                                        "unit": "PT"
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "alignment": "CENTER",
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 51,
+                "endIndex": 108,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 51,
+                            "endIndex": 107,
+                            "textRun": {
+                                "content": "Representation matters, especially in the romance genre ",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 12,
+                                        "unit": "PT"
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Manrope",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 107,
+                            "endIndex": 108,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "italic": true,
+                                    "fontSize": {
+                                        "magnitude": 12,
+                                        "unit": "PT"
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "alignment": "CENTER",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 108,
+                "endIndex": 125,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 108,
+                            "endIndex": 125,
+                            "textRun": {
+                                "content": "By Madeline Liao\n",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 12,
+                                        "unit": "PT"
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Libre Franklin",
+                                        "weight": 600
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "alignment": "CENTER",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 125,
+                "endIndex": 166,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 125,
+                            "endIndex": 166,
+                            "textRun": {
+                                "content": "Visuals by Sabrina Kauk and Vanessa Kauk\n",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 12,
+                                        "unit": "PT"
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Libre Franklin",
+                                        "weight": 600
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "alignment": "CENTER",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 166,
+                "endIndex": 1037,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 166,
+                            "endIndex": 613,
+                            "textRun": {
+                                "content": "With the increasing popularity of \u201cBookTok\u201d\u2014TikTok\u2019s book-reading sub-group\u2014young adult romance novels have become a frequent topic of discussion on social media. Creators and readers alike share their favourite books and gush over characters they\u2019re crushing on, almost like an online book club. However, the mainstream conversation lacks books with diversity, as many popular books center on white characters and experiences. While classics like",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 613,
+                            "endIndex": 614,
+                            "textRun": {
+                                "content": " ",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 614,
+                            "endIndex": 617,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 617,
+                            "endIndex": 640,
+                            "textRun": {
+                                "content": "Pride and Prejudice</i>",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 640,
+                            "endIndex": 666,
+                            "textRun": {
+                                "content": " and recent releases like ",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 666,
+                            "endIndex": 669,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 669,
+                            "endIndex": 688,
+                            "textRun": {
+                                "content": "The Hating Game</i>",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 688,
+                            "endIndex": 967,
+                            "textRun": {
+                                "content": " highlight riveting romance, it\u2019s time they share the spotlight. That\u2019s why we put together a list of five fictional romances featuring racialized main characters and relationships; because every reader deserves to see their background and culture reflected in the main character",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 967,
+                            "endIndex": 968,
+                            "textRun": {
+                                "content": "\u2014",
+                                "textStyle": {
+                                    "backgroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 1,
+                                                "green": 1,
+                                                "blue": 1
+                                            }
+                                        }
+                                    },
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.1254902,
+                                                "green": 0.12941177,
+                                                "blue": 0.14117648
+                                            }
+                                        }
+                                    },
+                                    "fontSize": {
+                                        "magnitude": 12,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 968,
+                            "endIndex": 1037,
+                            "textRun": {
+                                "content": "especially when they\u2019re experiencing some fun and raunchy romance.  \n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 1037,
+                "endIndex": 1038,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1037,
+                            "endIndex": 1038,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 1038,
+                "endIndex": 1039,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1038,
+                            "endIndex": 1039,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 1039,
+                "endIndex": 1097,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1039,
+                            "endIndex": 1044,
+                            "textRun": {
+                                "content": "<b>1.",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1044,
+                            "endIndex": 1045,
+                            "textRun": {
+                                "content": " ",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.6,
+                                                "blue": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1045,
+                            "endIndex": 1048,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1048,
+                            "endIndex": 1051,
+                            "textRun": {
+                                "content": "Get",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1051,
+                            "endIndex": 1052,
+                            "textRun": {
+                                "content": " ",
+                                "textStyle": {
+                                    "bold": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1052,
+                            "endIndex": 1071,
+                            "textRun": {
+                                "content": "a Life, Chloe Brown",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1071,
+                            "endIndex": 1075,
+                            "textRun": {
+                                "content": "</i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1075,
+                            "endIndex": 1092,
+                            "textRun": {
+                                "content": " by Talia Hibbert",
+                                "textStyle": {
+                                    "bold": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1092,
+                            "endIndex": 1096,
+                            "textRun": {
+                                "content": "</b>",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1096,
+                            "endIndex": 1097,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT",
+                        "indentFirstLine": {
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "unit": "PT"
+                        }
+                    }
+                }
+            },
+            {
+                "startIndex": 1097,
+                "endIndex": 1098,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1097,
+                            "endIndex": 1098,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT",
+                        "indentFirstLine": {
+                            "magnitude": 36,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 36,
+                            "unit": "PT"
+                        }
+                    }
+                }
+            },
+            {
+                "startIndex": 1098,
+                "endIndex": 1743,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1098,
+                            "endIndex": 1159,
+                            "textRun": {
+                                "content": "The first of a trilogy following the lives of three sisters, ",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1159,
+                            "endIndex": 1162,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1162,
+                            "endIndex": 1190,
+                            "textRun": {
+                                "content": "Get a Life, Chloe Brown</i> ",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1190,
+                            "endIndex": 1575,
+                            "textRun": {
+                                "content": "follows the titular character as she attempts to discover the adventurous side of her personality. After a close call with death, Brown\u2014described as a chronically-ill computer geek\u2014sets out to complete a bucket list to live life to the fullest. That\u2019s when she meets Red Morgan, a rebellious artist who she recruits to help with her adventure. Hibbert\u2019s other two books in the series, ",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1575,
+                            "endIndex": 1578,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1578,
+                            "endIndex": 1605,
+                            "textRun": {
+                                "content": "Take a Hint, Dani Brown</i>",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1605,
+                            "endIndex": 1610,
+                            "textRun": {
+                                "content": " and ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "startIndex": 1610,
+                            "endIndex": 1613,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1613,
+                            "endIndex": 1640,
+                            "textRun": {
+                                "content": "Act Your Age, Eve Brown</i>",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1640,
+                            "endIndex": 1743,
+                            "textRun": {
+                                "content": ", are also worth exploring as they also  feature Black main characters and interracial relationships. \n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    },
+                    "positionedObjectIds": [
+                        "z.000000000.i.1"
+                    ]
+                }
+            },
+            {
+                "startIndex": 1743,
+                "endIndex": 1744,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1743,
+                            "endIndex": 1744,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 1744,
+                "endIndex": 1789,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1744,
+                            "endIndex": 1750,
+                            "textRun": {
+                                "content": "<b>2. ",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1750,
+                            "endIndex": 1753,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1753,
+                            "endIndex": 1763,
+                            "textRun": {
+                                "content": "Honey Girl",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1763,
+                            "endIndex": 1767,
+                            "textRun": {
+                                "content": "</i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1767,
+                            "endIndex": 1768,
+                            "textRun": {
+                                "content": " ",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1768,
+                            "endIndex": 1784,
+                            "textRun": {
+                                "content": "by Morgan Rogers",
+                                "textStyle": {
+                                    "bold": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1784,
+                            "endIndex": 1788,
+                            "textRun": {
+                                "content": "</b>",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1788,
+                            "endIndex": 1789,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT",
+                        "indentFirstLine": {
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "unit": "PT"
+                        }
+                    }
+                }
+            },
+            {
+                "startIndex": 1789,
+                "endIndex": 1790,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1789,
+                            "endIndex": 1790,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 1790,
+                "endIndex": 2566,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 1790,
+                            "endIndex": 1935,
+                            "textRun": {
+                                "content": "While not strictly about romance, Rogers\u2019 debut novel illustrates love in many ways; through queer relationships, friendship and self-discovery. ",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1935,
+                            "endIndex": 1938,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1938,
+                            "endIndex": 1952,
+                            "textRun": {
+                                "content": "Honey Girl</i>",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1952,
+                            "endIndex": 1953,
+                            "textRun": {
+                                "content": " ",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 1953,
+                            "endIndex": 2566,
+                            "textRun": {
+                                "content": "tells the story of 28-year-old Grace Porter and her experience navigating life after finishing her PhD in astronomy. After a fun night out in Las Vegas, Grace wakes up the next morning married to Yuki Yamamoto, a woman from New York City whom she barely knows. On top of that, her new wife has already left Vegas and is on her way back home. When Grace\u2019s job search proves unsuccessful, she decides to travel to New York City to find Yuki. As the book progresses, Grace\u2019s spontaneous journey helps her understand herself as a queer Black woman, as she learns to recognize and cope with her emotions and burnout. \n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 2566,
+                "endIndex": 2567,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 2566,
+                            "endIndex": 2567,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT",
+                        "indentFirstLine": {
+                            "magnitude": 36,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 36,
+                            "unit": "PT"
+                        }
+                    }
+                }
+            },
+            {
+                "startIndex": 2567,
+                "endIndex": 2641,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 2567,
+                            "endIndex": 2573,
+                            "textRun": {
+                                "content": "<b>3. ",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2573,
+                            "endIndex": 2576,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2576,
+                            "endIndex": 2612,
+                            "textRun": {
+                                "content": "Josh and Hazel\u2019s Guide to Not Dating",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2612,
+                            "endIndex": 2616,
+                            "textRun": {
+                                "content": "</i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2616,
+                            "endIndex": 2636,
+                            "textRun": {
+                                "content": " by Christina Lauren",
+                                "textStyle": {
+                                    "bold": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2636,
+                            "endIndex": 2640,
+                            "textRun": {
+                                "content": "</b>",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2640,
+                            "endIndex": 2641,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT",
+                        "indentFirstLine": {
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "unit": "PT"
+                        }
+                    }
+                }
+            },
+            {
+                "startIndex": 2641,
+                "endIndex": 2642,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 2641,
+                            "endIndex": 2642,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 2642,
+                "endIndex": 3053,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 2642,
+                            "endIndex": 2705,
+                            "textRun": {
+                                "content": "For fans of the friends-to-lovers trope, this book is for you! ",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2705,
+                            "endIndex": 2708,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2708,
+                            "endIndex": 2749,
+                            "textRun": {
+                                "content": "Josh and Hazel\u2019s Guide to Not Dating</i> ",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 2749,
+                            "endIndex": 3053,
+                            "textRun": {
+                                "content": "features two main characters, Josh and Hazel, who have been friends for over a decade and slowly begin to realize their love for each other. The story's protagonist, Josh Im is Korean-American and his traditional Korean background is woven  into the narrative through Korean culture and family details. \n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    },
+                    "positionedObjectIds": [
+                        "z.000000000.i.2"
+                    ]
+                }
+            },
+            {
+                "startIndex": 3053,
+                "endIndex": 3054,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 3053,
+                            "endIndex": 3054,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 3054,
+                "endIndex": 3100,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 3054,
+                            "endIndex": 3060,
+                            "textRun": {
+                                "content": "<b>4. ",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3060,
+                            "endIndex": 3063,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3063,
+                            "endIndex": 3079,
+                            "textRun": {
+                                "content": "Love from A to Z",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3079,
+                            "endIndex": 3083,
+                            "textRun": {
+                                "content": "</i>",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3083,
+                            "endIndex": 3095,
+                            "textRun": {
+                                "content": " by S.K. Ali",
+                                "textStyle": {
+                                    "bold": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3095,
+                            "endIndex": 3099,
+                            "textRun": {
+                                "content": "</b>",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3099,
+                            "endIndex": 3100,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT",
+                        "indentFirstLine": {
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "unit": "PT"
+                        }
+                    }
+                }
+            },
+            {
+                "startIndex": 3100,
+                "endIndex": 3503,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 3100,
+                            "endIndex": 3133,
+                            "textRun": {
+                                "content": "A compelling and heartfelt novel,",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3133,
+                            "endIndex": 3134,
+                            "textRun": {
+                                "content": " ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "startIndex": 3134,
+                            "endIndex": 3137,
+                            "textRun": {
+                                "content": "<i>",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Lora",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3137,
+                            "endIndex": 3157,
+                            "textRun": {
+                                "content": "Love from A to Z</i>",
+                                "textStyle": {
+                                    "italic": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3157,
+                            "endIndex": 3158,
+                            "textRun": {
+                                "content": " ",
+                                "textStyle": {
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3158,
+                            "endIndex": 3503,
+                            "textRun": {
+                                "content": "follows Zayneb, who is mixed-Pakistani and West Indian, and Adam, who is of Chinese and Finnish descent, as their love progresses. Throughout the story, their relationship is challenged by racism and personal struggles. The book addresses Islamophobia, the mourning of lost loved ones and chronic illness while illustrating the beauty of love. \n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 3503,
+                "endIndex": 3504,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 3503,
+                            "endIndex": 3504,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 3504,
+                "endIndex": 3505,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 3504,
+                            "endIndex": 3505,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 3505,
+                "endIndex": 3552,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 3505,
+                            "endIndex": 3514,
+                            "textRun": {
+                                "content": "<b>5. <i>",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3514,
+                            "endIndex": 3533,
+                            "textRun": {
+                                "content": "Meet Cute Club</i> ",
+                                "textStyle": {
+                                    "bold": true,
+                                    "italic": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3533,
+                            "endIndex": 3547,
+                            "textRun": {
+                                "content": "by Jack Harbon",
+                                "textStyle": {
+                                    "bold": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3547,
+                            "endIndex": 3551,
+                            "textRun": {
+                                "content": "</b>",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        },
+                        {
+                            "startIndex": 3551,
+                            "endIndex": 3552,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT",
+                        "indentFirstLine": {
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "unit": "PT"
+                        }
+                    }
+                }
+            },
+            {
+                "startIndex": 3552,
+                "endIndex": 4054,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 3552,
+                            "endIndex": 4054,
+                            "textRun": {
+                                "content": "Hop on this journey as we watch a relationship between the two male main characters, Jordan Collins and Rex Bailey,  progress from annoyance to attraction. Jordan hosts a romance book club, and Rex, who Jordan finds \u201cfrustratingly obnoxious,\u201d keeps nagging him about joining. The two eventually team up to revive the withering book club and Jordan discovers that maybe Rex isn\u2019t so bad after all. Harbon\u2019s novel incorporates an enemies-to-lovers storyline with the familiarity of a bookstore setting. \n",
+                                "textStyle": {
+                                    "weightedFontFamily": {
+                                        "fontFamily": "PT Serif",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "lineSpacing": 200,
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            },
+            {
+                "startIndex": 4054,
+                "endIndex": 4055,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "startIndex": 4054,
+                            "endIndex": 4055,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "namedStyleType": "NORMAL_TEXT",
+                        "direction": "LEFT_TO_RIGHT"
+                    }
+                }
+            }
+        ]
+    },
+    "documentStyle": {
+        "background": {
+            "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "marginBottom": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "marginRight": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "marginLeft": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "pageSize": {
+            "height": {
+                "magnitude": 792,
+                "unit": "PT"
+            },
+            "width": {
+                "magnitude": 612,
+                "unit": "PT"
+            }
+        },
+        "marginHeader": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginFooter": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true
+    },
+    "namedStyles": {
+        "styles": [
+            {
+                "namedStyleType": "NORMAL_TEXT",
+                "textStyle": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "strikethrough": false,
+                    "smallCaps": false,
+                    "backgroundColor": {},
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {}
+                        }
+                    },
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    },
+                    "weightedFontFamily": {
+                        "fontFamily": "PT Serif",
+                        "weight": 400
+                    },
+                    "baselineOffset": "NONE"
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "alignment": "START",
+                    "lineSpacing": 200,
+                    "direction": "LEFT_TO_RIGHT",
+                    "spacingMode": "NEVER_COLLAPSE",
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "unit": "PT"
+                    },
+                    "borderBetween": {
+                        "color": {},
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID"
+                    },
+                    "borderTop": {
+                        "color": {},
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID"
+                    },
+                    "borderBottom": {
+                        "color": {},
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID"
+                    },
+                    "borderLeft": {
+                        "color": {},
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID"
+                    },
+                    "borderRight": {
+                        "color": {},
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID"
+                    },
+                    "indentFirstLine": {
+                        "unit": "PT"
+                    },
+                    "indentStart": {
+                        "unit": "PT"
+                    },
+                    "indentEnd": {
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": false,
+                    "keepWithNext": false,
+                    "avoidWidowAndOrphan": true,
+                    "shading": {
+                        "backgroundColor": {}
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_1",
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 6,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            },
+            {
+                "namedStyleType": "HEADING_2",
+                "textStyle": {
+                    "bold": false,
+                    "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "magnitude": 18,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 6,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            },
+            {
+                "namedStyleType": "HEADING_3",
+                "textStyle": {
+                    "bold": false,
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "red": 0.2627451,
+                                "green": 0.2627451,
+                                "blue": 0.2627451
+                            }
+                        }
+                    },
+                    "fontSize": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            },
+            {
+                "namedStyleType": "HEADING_4",
+                "textStyle": {
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "red": 0.4,
+                                "green": 0.4,
+                                "blue": 0.4
+                            }
+                        }
+                    },
+                    "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            },
+            {
+                "namedStyleType": "HEADING_5",
+                "textStyle": {
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "red": 0.4,
+                                "green": 0.4,
+                                "blue": 0.4
+                            }
+                        }
+                    },
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            },
+            {
+                "namedStyleType": "HEADING_6",
+                "textStyle": {
+                    "italic": true,
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "red": 0.4,
+                                "green": 0.4,
+                                "blue": 0.4
+                            }
+                        }
+                    },
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            },
+            {
+                "namedStyleType": "TITLE",
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 26,
+                        "unit": "PT"
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 3,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            },
+            {
+                "namedStyleType": "SUBTITLE",
+                "textStyle": {
+                    "italic": false,
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "red": 0.4,
+                                "green": 0.4,
+                                "blue": 0.4
+                            }
+                        }
+                    },
+                    "fontSize": {
+                        "magnitude": 15,
+                        "unit": "PT"
+                    },
+                    "weightedFontFamily": {
+                        "fontFamily": "Arial",
+                        "weight": 400
+                    }
+                },
+                "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "direction": "LEFT_TO_RIGHT",
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": true,
+                    "keepWithNext": true
+                }
+            }
+        ]
+    },
+    "revisionId": "ALm37BUhqsFTXVEds2Ad2Jrby6Lj00EQ8ZbQJDlwpz7jfCx2MTIB2fmd7bxB7Qib4hog2EicUXd72icrXrIoig",
+    "suggestionsViewMode": "SUGGESTIONS_INLINE",
+    "inlineObjects": {
+        "i.0": {
+            "objectId": "i.0",
+            "inlineObjectProperties": {
+                "embeddedObject": {
+                    "imageProperties": {
+                        "contentUri": "https://lh4.googleusercontent.com/eTJEbXw0KI-FDsgbu-4WCBUcQ_MjnW-H1d9ttfsygG43Z8kMlJkQxoYVyY6V5aGPGnUAbIRehQXNtKNn8zfiZGyT5r5vL3ZZazDDzyU-IxCLidEd0dX2YQ4FMQ6U5qd-30rDfTidFsbw5WqvckeCbeb8jPjw",
+                        "cropProperties": {}
+                    },
+                    "embeddedObjectBorder": {
+                        "color": {
+                            "color": {
+                                "rgbColor": {}
+                            }
+                        },
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID",
+                        "propertyState": "NOT_RENDERED"
+                    },
+                    "size": {
+                        "height": {
+                            "magnitude": 263,
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "magnitude": 468,
+                            "unit": "PT"
+                        }
+                    },
+                    "marginTop": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginBottom": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginRight": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginLeft": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    }
+                }
+            }
+        }
+    },
+    "positionedObjects": {
+        "z.000000000.i.1": {
+            "objectId": "z.000000000.i.1",
+            "positionedObjectProperties": {
+                "positioning": {
+                    "layout": "WRAP_TEXT",
+                    "leftOffset": {
+                        "magnitude": 369.75,
+                        "unit": "PT"
+                    },
+                    "topOffset": {
+                        "magnitude": 71,
+                        "unit": "PT"
+                    }
+                },
+                "embeddedObject": {
+                    "imageProperties": {
+                        "contentUri": "https://lh5.googleusercontent.com/dbyO6k0E0ifR1I84vpsKiYKlrxstJ0M9C6WIWhVmC4h3mfYTeUfLX99k19xKO2Jtksp8IjjZmjVXZlGY6m00RAcoRZaHAktDwajzO8euZQyCHZHBGHw_V36t79lY9BqfZkVq-syMpFuKbGJUi8oK1A0JtNN0",
+                        "cropProperties": {}
+                    },
+                    "embeddedObjectBorder": {
+                        "color": {
+                            "color": {
+                                "rgbColor": {}
+                            }
+                        },
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID",
+                        "propertyState": "NOT_RENDERED"
+                    },
+                    "size": {
+                        "height": {
+                            "magnitude": 88.87503937007874,
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "magnitude": 88.87503937007874,
+                            "unit": "PT"
+                        }
+                    },
+                    "marginTop": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginBottom": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginRight": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginLeft": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    }
+                }
+            }
+        },
+        "z.000000000.i.2": {
+            "objectId": "z.000000000.i.2",
+            "positionedObjectProperties": {
+                "positioning": {
+                    "layout": "WRAP_TEXT",
+                    "leftOffset": {
+                        "magnitude": -49.5,
+                        "unit": "PT"
+                    },
+                    "topOffset": {
+                        "magnitude": 4.5,
+                        "unit": "PT"
+                    }
+                },
+                "embeddedObject": {
+                    "imageProperties": {
+                        "contentUri": "https://lh4.googleusercontent.com/CTU_a_FLiOVIiXFT-PNg7F2r7Sl-5Mtfg6yC8KdTtpYz9cf7yLuk1a0tFuLtcjfeOJEAep0vA7AwzfXDdOeouTyUtibbKwTXgZtZJz8TNYGFaY7VyPRMIbA9DesvdaY1fyCIIvEmsD-V5aNRQVhcMl0NaxmU",
+                        "cropProperties": {}
+                    },
+                    "embeddedObjectBorder": {
+                        "color": {
+                            "color": {
+                                "rgbColor": {}
+                            }
+                        },
+                        "width": {
+                            "unit": "PT"
+                        },
+                        "dashStyle": "SOLID",
+                        "propertyState": "NOT_RENDERED"
+                    },
+                    "size": {
+                        "height": {
+                            "magnitude": 115.87503937007874,
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "magnitude": 115.87503937007874,
+                            "unit": "PT"
+                        }
+                    },
+                    "marginTop": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginBottom": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginRight": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    },
+                    "marginLeft": {
+                        "magnitude": 9,
+                        "unit": "PT"
+                    }
+                }
+            }
+        }
+    },
+    "documentId": "1wT5zAcybPtTpcqShCo03NYDPP3G7ED34hK7dHI1CYGU"
+}
