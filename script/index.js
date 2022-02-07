@@ -2,16 +2,16 @@ let track_index = 0;
 
 let audio = [
     {
-        file: new Audio('./assets/songs/track1.mp3'),
-        cover: "./assets/songs/cover1.jpeg",
-        name: "Make me feel",
-        artist: "Janelle Monae"
-    },
-    {
         file: new Audio('./assets/songs/track2.mp3'),
         cover: "./assets/songs/cover2.jpg",
         name: "Answer: Love Myself",
         artist: "BTS"
+    },
+    {
+        file: new Audio('./assets/songs/track1.mp3'),
+        cover: "./assets/songs/cover1.jpeg",
+        name: "Make me feel",
+        artist: "Janelle Monae"
     },
     {
         file: new Audio('./assets/songs/track3.mp3'),
