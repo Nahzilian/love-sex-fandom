@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background-image: url("../assets/background.jpeg");
+    background-image: url("../assets/LSFandom_Background\ All\ Over\ Low\ Opacity\ copy.jpeg");
     background-position: center;
     background-size: contain;
 }
@@ -309,6 +309,17 @@ body {
     height: auto;
 }
 
+.mobile-credit {display: none;}
+
+@media only screen and (max-width: 992px){
+    .mobile-credit {
+        display: block;
+    }
+
+    .desktop-credit {
+        display: none   ;
+    }
+}
 
 
 /* .credit div {
