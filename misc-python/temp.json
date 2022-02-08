@@ -1,0 +1,68 @@
+[
+    {
+        "file": "new Audio('./assets/songs/track8.mp3')",
+        "cover": "./assets/songs/cover8.jpeg",
+        "name": "Eventually",
+        "artist": "Tame Impala"
+    },
+    {
+        "file": "new Audio('./assets/songs/track9.mp3')",
+        "cover": "./assets/songs/cover9.jpeg",
+        "name": "18",
+        "artist": "One Direction"
+    },
+    {
+        "file": "new Audio('./assets/songs/track10.mp3')",
+        "cover": "./assets/songs/cover10.jpeg",
+        "name": "I heard you\u2019re married",
+        "artist": "The Weeknd (ft. Lil Wayne)"
+    },
+    {
+        "file": "new Audio('./assets/songs/track11.mp3')",
+        "cover": "./assets/songs/cover11.jpeg",
+        "name": "hornyloveskickmess",
+        "artist": "Girl in Red"
+    },
+    {
+        "file": "new Audio('./assets/songs/track12.mp3')",
+        "cover": "./assets/songs/cover12.jpeg",
+        "name": "Christmas Tree",
+        "artist": "V"
+    },
+    {
+        "file": "new Audio('./assets/songs/track13.mp3')",
+        "cover": "./assets/songs/cover13.jpeg",
+        "name": "Story of my life",
+        "artist": "One Direction"
+    },
+    {
+        "file": "new Audio('./assets/songs/track14.mp3')",
+        "cover": "./assets/songs/cover14.jpeg",
+        "name": "Always a dream",
+        "artist": "Dafna"
+    },
+    {
+        "file": "new Audio('./assets/songs/track15.mp3')",
+        "cover": "./assets/songs/cover15.jpeg",
+        "name": "Avoid Things",
+        "artist": "Tems"
+    },
+    {
+        "file": "new Audio('./assets/songs/track16.mp3')",
+        "cover": "./assets/songs/cover16.jpeg",
+        "name": "Human",
+        "artist": "Dodie and Tom Walker"
+    },
+    {
+        "file": "new Audio('./assets/songs/track17.mp3')",
+        "cover": "./assets/songs/cover17.jpeg",
+        "name": "Polaroid Love",
+        "artist": "ENHYPEN"
+    },
+    {
+        "file": "new Audio('./assets/songs/track18.mp3')",
+        "cover": "./assets/songs/cover18.jpeg",
+        "name": "Sex money feelings die",
+        "artist": "Lykke Li"
+    }
+]
