@@ -5,7 +5,7 @@ from google_docs import *
 # current_dir = os.getcwd().replace('misc-python')
 host_url = 'https://lovesexfandom.theeyeopener.com'
 # host_url = '.'
-main_title = 'Love Sex and Fandom'
+main_title = 'Love, Sex and Fandom'
 
 # data_json = open('./room_data.json')
 # article_data = json.load(data_json)

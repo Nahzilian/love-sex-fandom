@@ -266,7 +266,7 @@ body {
 @media only screen and (max-width: 545px) {
     .custom-card {
         min-height: 400px;
-        height: 60vh;
+        height: 63vh;
     }
 
     .page-title h1 {
